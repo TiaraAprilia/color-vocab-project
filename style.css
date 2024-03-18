@@ -1,0 +1,20 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.warna{
+    color: red;
+}
+
+#abu-abu{
+    color: grey;
+}
+
+[value="3"]{
+    color: aqua;
+}
